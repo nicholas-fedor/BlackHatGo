@@ -1,3 +1,5 @@
+// Page 47
+// Listing 3-1: Sample implementations of the Get(), Head(), and Post() functions.
 package main
 
 import (

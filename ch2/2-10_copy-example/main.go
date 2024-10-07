@@ -1,3 +1,5 @@
+// Page 34-35
+// Listing 2-10: Using io.Copy
 package main
 
 import (

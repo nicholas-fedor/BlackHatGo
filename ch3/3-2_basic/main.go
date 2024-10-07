@@ -1,3 +1,5 @@
+// Page 47
+// Listing 3-2: Using the PostForm() function instead of Post().
 package main
 
 import (

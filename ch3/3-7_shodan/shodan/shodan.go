@@ -1,3 +1,5 @@
+// Page 53
+// Listing 3-7: Shodan Client definition
 package shodan
 
 const BaseURL = "https://api.shodan.io"

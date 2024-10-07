@@ -1,3 +1,5 @@
+// Page 29
+// Listing 2-6: A worker function for processing work
 package main
 
 import (

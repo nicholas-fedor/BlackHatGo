@@ -1,3 +1,5 @@
+// Pages 24-25
+// Listing 2-1: A basic port scanner that scans only one port
 package main
 
 import (

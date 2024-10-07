@@ -1,3 +1,5 @@
+// Pages 42-43
+// Listing 2-12: Replicating Netcat's gaping security hole.
 package main
 
 import (

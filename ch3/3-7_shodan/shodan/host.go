@@ -6,6 +6,8 @@ import (
 	"net/http"
 )
 
+// Pages 56-57
+// Listing 3-9: Host search response data types.
 type HostLocation struct {
 	City         string  `json:"city"`
 	RegionCode   string  `json:"region_code"`
@@ -38,6 +40,8 @@ type HostSearch struct {
 	Matches []Host `json:"matches"`
 }
 
+// Page 57
+// Listing 3-10: Decoding the host search response body.
 func (s *Client) HostSearch(q string) (*HostSearch, error) {
 	res, err := http.Get(
 		fmt.Sprintf("%s/shodan/host/search?key=%s&query=%s", BaseURL, s.apiKey, q),

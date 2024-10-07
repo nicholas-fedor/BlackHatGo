@@ -1,3 +1,5 @@
+// Page 48
+// Listing 3-3: Sending a DELETE request
 package main
 
 import (

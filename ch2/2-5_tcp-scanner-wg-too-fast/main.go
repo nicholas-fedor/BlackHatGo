@@ -1,3 +1,5 @@
+// Pages 26-27
+// Listing 2-5: A synchronized scanner that uses WaitGroup
 package main
 
 import (

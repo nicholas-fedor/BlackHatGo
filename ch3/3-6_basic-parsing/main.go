@@ -1,3 +1,5 @@
+// Page 50
+// Listing 3-6: Decoding a JSON response body.
 package main
 
 import (

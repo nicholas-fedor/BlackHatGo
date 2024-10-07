@@ -1,3 +1,5 @@
+// Pages 33-34
+// Listing 2-9: A reader and writer demonstration
 package main
 
 import (

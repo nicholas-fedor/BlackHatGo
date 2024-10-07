@@ -1,3 +1,5 @@
+// Page 29
+// Listing 2-7: A basic worker pool
 package main
 
 import (

@@ -1,3 +1,5 @@
+// Page 25
+// Listing 2-2: Scanning 1024 ports of scanme.nmap.org
 package main
 
 import "fmt"

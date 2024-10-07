@@ -1,3 +1,5 @@
+// Page 53
+// Listing 3-8: Making an HTTP GET request and decoding the response.
 package shodan
 
 import (

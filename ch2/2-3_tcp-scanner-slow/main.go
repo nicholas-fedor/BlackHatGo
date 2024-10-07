@@ -1,3 +1,5 @@
+// Page 26
+// Listing 2-3: The completed port scanner.
 package main
 
 import (

@@ -1,3 +1,5 @@
+// Pages 26-27
+// Listing 2-4: A scanner that works too fast
 package main
 
 import (

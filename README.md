@@ -1,5 +1,7 @@
 # BlackHatGo
- My notes and code from reading the book.
+
+Notes and code from the book.
 
 ## Notes
- Original Code Source: github.com/blackhat-go/bhg
+
+Original Code Source: <https://github.com/blackhat-go/bhg>
